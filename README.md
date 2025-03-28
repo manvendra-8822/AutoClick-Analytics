@@ -1,1 +1,2 @@
 # AutoClick-Analytics
+AutoClick Analytics is a dynamic and automated data analytics pipeline built on top of ClickHouse, designed to simplify and accelerate the analytical process. By leveraging the power of ClickHouse and the flexibility of Python, AutoClick Analytics automates the entire ETL (Extract, Transform, Load) workflow, enabling real-time and batch processing with minimal manual intervention.
